@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+#privacidadBar {
+    font-family: 'Open Sans', sans-serif;
+    display:none;
+    background: #000;
+    position: fixed;
+    bottom: 0;
+    color: hsl(0, 0%, 91%);
+    padding: 25px;
+    width: 100%;
+}
+
+#privacidadBar .privacidadTitle {
+    font-size: 1.2rem;
+    line-height: 1rem;
+    margin: 0px 0px 20px;
+}
+#privacidadBar .privacidadContent {
+    font-size: 0.7rem;
+    line-height: 1rem;
+}
